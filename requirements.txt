@@ -1,7 +1,7 @@
 numpy==1.20.*
 pandas==1.2.*
 matplotlib==3.3.*
-sklearn==0.24.*
+scikit-learn==0.24.*
 xgboost==1.4.0
 joblib==1.0.*
 ipywidgets==7.6.*
